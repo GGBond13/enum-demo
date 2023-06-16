@@ -9,6 +9,7 @@ import java.util.Arrays;
 * 1 枚举定义
 * 2 枚举构造
 * 3 遍历查询
+//模拟修改一下
 * */
 public enum SeasonEnum {
     //1.枚举定义
